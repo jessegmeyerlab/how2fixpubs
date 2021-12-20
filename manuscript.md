@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/how2fixpubs/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/how2fixpubs/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/how2fixpubs/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/how2fixpubs/v/ee2050bc242237034e4c9b6e361df4829a5526bb/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/ee2050bc242237034e4c9b6e361df4829a5526bb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/ee2050bc242237034e4c9b6e361df4829a5526bb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/))
+([permalink](https://jessegmeyerlab.github.io/how2fixpubs/v/ee2050bc242237034e4c9b6e361df4829a5526bb/))
 was automatically generated
-from [jessegmeyerlab/how2fixpubs@793f3df](https://github.com/jessegmeyerlab/how2fixpubs/tree/793f3dfaaa22580fea0728f20f28e90652752505)
+from [jessegmeyerlab/how2fixpubs@ee2050b](https://github.com/jessegmeyerlab/how2fixpubs/tree/ee2050bc242237034e4c9b6e361df4829a5526bb)
 on December 20, 2021.
 </em></small>
 
@@ -103,7 +103,7 @@ on December 20, 2021.
 
 ## Abstract {.page_break_before}
 
-
+Mass spectrometry enables analysis of peptides and small molecules (including polar metabolites and lipids). This is where we write the abstract. 
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
