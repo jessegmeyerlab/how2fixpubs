@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jessegmeyerlab/how2fixpubs/tree/gh-pages) branch hosts the contents of this directory at <https://jessegmeyerlab.github.io/how2fixpubs/>.
-The permalink for this webpage version is <https://jessegmeyerlab.github.io/how2fixpubs/v/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7/>.
+The permalink for this webpage version is <https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jessegmeyerlab.github.io/how2fixpubs/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7`](https://github.com/jessegmeyerlab/how2fixpubs/commit/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7).
+[`bab64f25c424700b4bd367cd865df13f4b29b438`](https://github.com/jessegmeyerlab/how2fixpubs/commit/bab64f25c424700b4bd367cd865df13f4b29b438).
