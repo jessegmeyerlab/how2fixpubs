@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: 'Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics'
 keywords:
 - markdown
 - publishing
@@ -15,10 +15,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
+  <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
+  <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
+  <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta name="dc.date" content="2021-12-20" />
   <meta name="citation_publication_date" content="2021-12-20" />
   <meta name="dc.language" content="en-US" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/how2fixpubs/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/how2fixpubs/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/how2fixpubs/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/))
+([permalink](https://jessegmeyerlab.github.io/how2fixpubs/v/793f3dfaaa22580fea0728f20f28e90652752505/))
 was automatically generated
-from [jessegmeyerlab/how2fixpubs@bab64f2](https://github.com/jessegmeyerlab/how2fixpubs/tree/bab64f25c424700b4bd367cd865df13f4b29b438)
+from [jessegmeyerlab/how2fixpubs@793f3df](https://github.com/jessegmeyerlab/how2fixpubs/tree/793f3dfaaa22580fea0728f20f28e90652752505)
 on December 20, 2021.
 </em></small>
 
