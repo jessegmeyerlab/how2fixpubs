@@ -5,10 +5,10 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-02-19'
+date-meta: '2021-12-20'
 author-meta:
 - John Doe
-- Jane Roe
+- Jesse G. Meyer
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-02-19" />
-  <meta name="citation_publication_date" content="2021-02-19" />
+  <meta name="dc.date" content="2021-12-20" />
+  <meta name="citation_publication_date" content="2021-12-20" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -31,19 +31,19 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Jesse G. Meyer" />
+  <meta name="citation_author_institution" content="Department of Biochemistry, Medical College of Wisconsin" />
+  <meta name="citation_author_orcid" content="0000-0003-2753-3926" />
+  <meta name="twitter:creator" content="@j_my_sci" />
   <link rel="canonical" href="https://jessegmeyerlab.github.io/how2fixpubs/" />
   <meta property="og:url" content="https://jessegmeyerlab.github.io/how2fixpubs/" />
   <meta property="twitter:url" content="https://jessegmeyerlab.github.io/how2fixpubs/" />
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/how2fixpubs/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/how2fixpubs/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/how2fixpubs/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/how2fixpubs/v/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/how2fixpubs/v/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7/))
+([permalink](https://jessegmeyerlab.github.io/how2fixpubs/v/bab64f25c424700b4bd367cd865df13f4b29b438/))
 was automatically generated
-from [jessegmeyerlab/how2fixpubs@c2a3a3f](https://github.com/jessegmeyerlab/how2fixpubs/tree/c2a3a3f1ab550f9cc5a012a8a67b1621f861e2e7)
-on February 19, 2021.
+from [jessegmeyerlab/how2fixpubs@bab64f2](https://github.com/jessegmeyerlab/how2fixpubs/tree/bab64f25c424700b4bd367cd865df13f4b29b438)
+on December 20, 2021.
 </em></small>
 
 ## Authors
@@ -87,13 +87,16 @@ on February 19, 2021.
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Jesse G. Meyer**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0003-2753-3926](https://orcid.org/0000-0003-2753-3926)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [jessegmeyerlab](https://github.com/jessegmeyerlab)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [j_my_sci](https://twitter.com/j_my_sci)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Biochemistry, Medical College of Wisconsin
+     · Funded by Grant R21 AG074234; Grant R35 GM142502
   </small>
 
 
